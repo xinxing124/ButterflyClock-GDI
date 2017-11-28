@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GDIPClock">
+</Property><Property Name="解决方案文件" Value="D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\GDIPClock.sln">
+</Property><Property Name="用户选项文件" Value="D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\GDIPClock.suo">
+</Property><Property Name="Date" Value="2017年11月28日">
+</Property><Property Name="Time" Value="10:35">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GDIPClock.sln" Description="文件已成功备份为 D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\GDIPClock.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="GDIPClock.suo" Description="文件已成功备份为 D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\GDIPClock.suo.old">
+</Event><Event ErrorLevel="0" Project="GDIPClock" Source="GDIPClock.vcproj" Description="Converting project file 'D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\GDIPClock.vcproj'.">
+</Event><Event ErrorLevel="1" Project="GDIPClock" Source="GDIPClock.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="GDIPClock" Source="GDIPClock.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="GDIPClock" Source="GDIPClock.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="GDIPClock" Source="GDIPClock.vcproj" Description="MSB8012: $(TargetPath) ('D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\.\Release\GDIPClock.exe') does not match the Linker's OutputFile property value '.\Release/GDIPClock.exe' ('D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\Release/GDIPClock.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="GDIPClock" Source="GDIPClock.vcproj" Description="MSB8012: $(TargetPath) ('D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\.\Debug\GDIPClock.exe') does not match the Linker's OutputFile property value '.\Debug/GDIPClock.exe' ('D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\Debug/GDIPClock.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="GDIPClock" Source="GDIPClock.vcproj" Description="Done converting to new project file 'D:\360安全浏览器下载\10409666ButterflyClock\vc6GDIplusSrc\GDIPClock.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="GDIPClock" Source="GDIPClock.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GDIPClock.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="GDIPClock.sln" Description="Converted">
+</Event></UpgradeLog>
